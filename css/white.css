@@ -1,26 +1,26 @@
 @font-face {
   font-family: hack-regular;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/Hack-Regular.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/Hack-Regular.ttf");
 }
 @font-face {
   font-family: hack-italic;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/Hack-Italic.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/Hack-Italic.ttf");
 }
 @font-face {
   font-family: hack-bold;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/Hack-Bold.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/Hack-Bold.ttf");
 }
 @font-face {
   font-family: hack-bolditalic;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/Hack-BoldItalic.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/Hack-BoldItalic.ttf");
 }
 @font-face {
   font-family: Gothic;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/GOTHIC.TTF");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/GOTHIC.TTF");
 }
 @font-face {
   font-family: Merriweather;
-  src: url("https://cdn.jsdelivr.net/gh/yvesyc/img-portfolio@1.0/font/Merriweather-Regular-9.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/yvesyc/yvesyc.github.io@master/font/Merriweather-Regular-9.ttf");
 }
 * {
   padding: 0;
@@ -860,6 +860,7 @@ li p {
 }
 #mobile-main .mobile-menu-div .mobile-menu-child {
   margin-top: 50px;
+  font-family: Gothic;
   font-size: 2.2em;
   font-weight: 1000;
 }
@@ -869,6 +870,7 @@ li p {
   padding: 40px 40px;
 }
 .mobile-menu-inner .mobile-menu-site-name {
+  font-family: Gothic;
   font-size: 1.5em;
   font-weight: 1000;
 }
